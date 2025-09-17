@@ -1,4 +1,9 @@
+# Configuración básica de Jekyll
+source: docs
+destination: _site
+url: "https://juancarlos-ra.github.io"
+baseurl: "/OpenBanking"
+
+# Excluir toda la carpeta assets
 exclude:
-  - "assets/vendor_components/select2/docs"
-  - "assets/vendor_components/chart-js/docs"
-  - "assets/vendor_components/chartist-js-develop/chartist-js-develop/site"
+  - "assets"
