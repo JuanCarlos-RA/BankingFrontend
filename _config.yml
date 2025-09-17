@@ -1,2 +1,3 @@
 exclude:
-  - "assets"
+  - "assets/vendor_components/chartist-js-develop/chartist-js-develop/site"
+  - "assets/vendor_components/select2/docs"
