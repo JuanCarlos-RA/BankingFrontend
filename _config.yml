@@ -1,3 +1,4 @@
 exclude:
-  - "assets/vendor_components/chartist-js-develop/chartist-js-develop/site"
   - "assets/vendor_components/select2/docs"
+  - "assets/vendor_components/chart-js/docs"
+  - "assets/vendor_components/chartist-js-develop/chartist-js-develop/site"
